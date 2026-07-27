@@ -130,5 +130,14 @@
   },
   "iron": {
     "target_interval_sec": 0
-  }
+  },
+  "drone_t1": {
+    "target_interval_sec": 0
+  },
+  "drone_t2": {
+    "target_interval_sec": 0
+  },
+  "explosive": {
+    "target_interval_sec": 0
+  },
 }

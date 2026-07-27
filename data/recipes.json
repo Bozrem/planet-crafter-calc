@@ -121,5 +121,26 @@
       "honey": 1,
       "beans": 1
     }
+  },
+  "drone_t1": {
+    "inputs": {
+      "rocket_engine": 1,
+      "iron": 1,
+      "circuit_board": 1
+    }
+  },
+  "drone_t2": {
+    "inputs": {
+      "rocket_engine": 1,
+      "super_alloy": 1,
+      "circuit_board": 1,
+      "explosive_powder": 1
+    }
+  },
+  "explosive": {
+    "inputs": {
+      "explosive_powder": 2,
+      "circuit_board": 1
+    }
   }
 }
