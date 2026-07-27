@@ -1,0 +1,134 @@
+{
+  "fusion_energy_cell": {
+    "target_interval_sec": 0
+  },
+  "pulsar_quartz": {
+    "target_interval_sec": 0
+  },
+  "rocket_engine": {
+    "target_interval_sec": 0
+  },
+  "circuit_board": {
+    "target_interval_sec": 0
+  },
+  "super_alloy_rod": {
+    "target_interval_sec": 0
+  },
+  "iridium_rod": {
+    "target_interval_sec": 0
+  },
+  "uranium_rod": {
+    "target_interval_sec": 0
+  },
+  "osmium_rod": {
+    "target_interval_sec": 0
+  },
+  "mutagen_t4": {
+    "target_interval_sec": 0
+  },
+  "mutagen_t3": {
+    "target_interval_sec": 0
+  },
+  "mutagen": {
+    "target_interval_sec": 0
+  },
+  "fertilizer_t2": {
+    "target_interval_sec": 60.0
+  },
+  "fertilizer": {
+    "target_interval_sec": 0
+  },
+  "smart_fabric": {
+    "target_interval_sec": 0
+  },
+  "fabric": {
+    "target_interval_sec": 0
+  },
+  "explosive_powder": {
+    "target_interval_sec": 0
+  },
+  "bioplastic_nugget": {
+    "target_interval_sec": 0
+  },
+  "bacteria_sample": {
+    "target_interval_sec": 0
+  },
+  "high_quality_food": {
+    "target_interval_sec": 0
+  },
+  "nitrogen_cartridge": {
+    "target_interval_sec": 0
+  },
+  "methane_cartridge": {
+    "target_interval_sec": 0
+  },
+  "oxygen_capsule": {
+    "target_interval_sec": 0
+  },
+  "water_bottle": {
+    "target_interval_sec": 0
+  },
+  "honey": {
+    "target_interval_sec": 0
+  },
+  "silk": {
+    "target_interval_sec": 0
+  },
+  "tree_bark": {
+    "target_interval_sec": 0
+  },
+  "algae": {
+    "target_interval_sec": 0
+  },
+  "eggplant": {
+    "target_interval_sec": 0
+  },
+  "squash": {
+    "target_interval_sec": 0
+  },
+  "beans": {
+    "target_interval_sec": 0
+  },
+  "mushroom": {
+    "target_interval_sec": 0
+  },
+  "super_alloy": {
+    "target_interval_sec": 0
+  },
+  "zeolite": {
+    "target_interval_sec": 0
+  },
+  "obsidian": {
+    "target_interval_sec": 0
+  },
+  "osmium": {
+    "target_interval_sec": 0
+  },
+  "uranium": {
+    "target_interval_sec": 0
+  },
+  "iridium": {
+    "target_interval_sec": 0
+  },
+  "sulfur": {
+    "target_interval_sec": 0
+  },
+  "aluminum": {
+    "target_interval_sec": 0
+  },
+  "titanium": {
+    "target_interval_sec": 0
+  },
+  "silicon": {
+    "target_interval_sec": 0
+  },
+  "magnesium": {
+    "target_interval_sec": 0
+  },
+  "cobalt": {
+    "target_interval_sec": 0
+  },
+  "iron": {
+    "target_interval_sec": 0
+  }
+}

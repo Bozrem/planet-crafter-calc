@@ -1,0 +1,125 @@
+{
+  "super_alloy_rod": {
+    "inputs": {
+      "super_alloy": 8,
+      "aluminum": 1
+    }
+  },
+  "iridium_rod": {
+    "inputs": {
+      "iridium": 9
+    }
+  },
+  "uranium_rod": {
+    "inputs": {
+      "uranium": 9
+    }
+  },
+  "osmium_rod": {
+    "inputs": {
+      "osmium": 9
+    }
+  },
+  "rocket_engine": {
+    "inputs": {
+      "iridium_rod": 1,
+      "uranium": 2,
+      "super_alloy": 1
+    }
+  },
+  "explosive_powder": {
+    "inputs": {
+      "sulfur": 2,
+      "iridium": 1
+    }
+  },
+  "bioplastic_nugget": {
+    "inputs": {
+      "mushroom": 2,
+      "silicon": 1,
+      "water_bottle": 1
+    }
+  },
+  "bacteria_sample": {
+    "inputs": {
+      "algae": 3,
+      "water_bottle": 1
+    }
+  },
+  "fertilizer": {
+    "inputs": {
+      "algae": 3,
+      "eggplant": 2,
+      "sulfur": 1
+    }
+  },
+  "fertilizer_t2": {
+    "inputs": {
+      "fertilizer": 1,
+      "algae": 1,
+      "squash": 1,
+      "methane_cartridge": 2
+    }
+  },
+  "mutagen": {
+    "inputs": {
+      "bacteria_sample": 1,
+      "methane_cartridge": 1,
+      "sulfur": 1
+    }
+  },
+  "mutagen_t3": {
+    "inputs": {
+      "bacteria_sample": 1,
+      "sulfur": 1,
+      "nitrogen_cartridge": 1
+    }
+  },
+  "mutagen_t4": {
+    "inputs": {
+      "mutagen": 1,
+      "mutagen_t3": 1
+    }
+  },
+  "circuit_board": {
+    "inputs": {
+      "aluminum": 1,
+      "iron": 1,
+      "silicon": 1,
+      "nitrogen_cartridge": 1
+    }
+  },
+  "pulsar_quartz": {
+    "inputs": {
+      "zeolite": 1,
+      "osmium": 1,
+      "uranium": 1,
+      "iridium": 1,
+      "methane_cartridge": 1
+    }
+  },
+  "fusion_energy_cell": {
+    "inputs": {
+      "pulsar_quartz": 3,
+      "super_alloy_rod": 2,
+      "obsidian": 1
+    }
+  },
+  "fabric": {
+    "inputs": {
+      "silk": 2
+    }
+  },
+  "smart_fabric": {
+    "inputs": {
+      "fabric": 1,
+      "bioplastic_nugget": 1
+    }
+  },
+  "high_quality_food": {
+    "inputs": {
+      "honey": 1,
+      "beans": 1
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "ore_extractor_t3": {
+    "cycle_time_sec": 75.0,
+    "produces": [
+      "iron",
+      "cobalt",
+      "magnesium",
+      "silicon",
+      "titanium",
+      "aluminum",
+      "sulfur",
+      "osmium",
+      "uranium",
+      "iridium",
+      "super_alloy",
+      "zeolite",
+      "obsidian"
+    ]
+  },
+  "gas_extractor_t2": {
+    "cycle_time_sec": 80.0,
+    "produces": [
+      "methane_cartridge",
+      "nitrogen_cartridge",
+      "oxygen_capsule"
+    ]
+  },
+  "lake_water_collector": {
+    "cycle_time_sec": 100.0,
+    "produces": [
+      "water_bottle"
+    ]
+  },
+  "outdoor_farm": {
+    "cycle_time_sec": 41.625,
+    "produces": [
+      "eggplant",
+      "squash",
+      "beans",
+      "mushroom"
+    ]
+  },
+  "beehive": {
+    "cycle_time_sec": 160.0,
+    "produces": [
+      "honey"
+    ]
+  },
+  "algae_generator_t2": {
+    "cycle_time_sec": 30.0,
+    "produces": [
+      "algae"
+    ]
+  },
+  "silk_generator": {
+    "cycle_time_sec": 200.0,
+    "produces": [
+      "silk"
+    ]
+  },
+  "biodome_t2": {
+    "cycle_time_sec": 270.0,
+    "produces": [
+      "tree_bark"
+    ]
+  }
+}

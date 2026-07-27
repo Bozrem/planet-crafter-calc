@@ -1,0 +1,23 @@
+{
+  "name": "planet-crafter-calc",
+  "version": "0.1.0",
+  "description": "Production calculator for The Planet Crafter",
+  "type": "module",
+  "bin": {
+    "planet-crafter-calc": "./dist/cli/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx src/cli/index.ts",
+    "calc": "tsx src/cli/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
