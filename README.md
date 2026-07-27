@@ -15,6 +15,8 @@ Open the local Vite URL. Add outputs via the search box, set intervals, and read
 
 Drop item/machine icons into `public/icons/` as `{id}.png` (e.g. `fertilizer_t2.png`). Missing icons use a letter fallback.
 
+Pushes to `main` build and deploy the web UI to GitHub Pages (`https://bozrem.github.io/planet-crafter-calc/`). In the repo, set **Settings → Pages → Source** to **GitHub Actions** once if it isn’t already.
+
 ### CLI (V1)
 
 ```bash
