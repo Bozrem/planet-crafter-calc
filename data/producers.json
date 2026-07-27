@@ -31,7 +31,7 @@
       "water_bottle"
     ]
   },
-  "outdoor_farm": {
+  "outdoor_farm_t2": {
     "cycle_time_sec": 41.625,
     "produces": [
       "eggplant",
