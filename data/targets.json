@@ -8,6 +8,9 @@
   "rocket_engine": {
     "target_interval_sec": 0
   },
+  "rocket_engine_t2": {
+    "target_interval_sec": 0
+  },
   "circuit_board": {
     "target_interval_sec": 0
   },
@@ -185,4 +188,16 @@
   "trade_rocket_multiplier_fuse": {
     "target_interval_sec": 0
   },
+  "flare": {
+    "target_interval_sec": 0
+  },
+  "animal_food_t1": {
+    "target_interval_sec": 0
+  },
+  "animal_food_t2": {
+    "target_interval_sec": 0
+  },
+  "animal_food_t3": {
+    "target_interval_sec": 0
+  }
 }

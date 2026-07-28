@@ -27,6 +27,15 @@
       "super_alloy": 1
     }
   },
+  "rocket_engine_t2": {
+    "inputs": {
+      "rocket_engine": 2,
+      "solar_quartz": 1,
+      "phosphorus": 1,
+      "circuit_board": 1,
+      "selenium": 1
+    }
+  },
   "explosive_powder": {
     "inputs": {
       "sulfur": 2,
@@ -202,4 +211,30 @@
       "solar_quartz": 1
     }
   },
+  "flare": {
+    "inputs": {
+      "explosive_powder": 1,
+      "bioplastic_nugget": 1
+    }
+  },
+  "animal_food_t1": {
+    "inputs": {
+      "honey": 1,
+      "beans": 1,
+      "common_larva": 1
+    }
+  },
+  "animal_food_t2": {
+    "inputs": {
+      "animal_food_t1": 1,
+      "algae": 1,
+      "rare_larva": 1
+    }
+  },
+  "animal_food_t3": {
+    "inputs": {
+      "animal_food_t2": 1,
+      "silk_worm": 1
+    }
+  }
 }
