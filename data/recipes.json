@@ -61,11 +61,24 @@
       "methane_cartridge": 2
     }
   },
+  "fertilizer_t3": {
+    "inputs": {
+      "phosphorus": 2,
+      "fertilizer_t2": 1
+    }
+  },
   "mutagen": {
     "inputs": {
       "bacteria_sample": 1,
       "methane_cartridge": 1,
       "sulfur": 1
+    }
+  },
+  "mutagen_t2": {
+    "inputs": {
+      "mutagen": 1,
+      "common_larva": 1,
+      "honey": 1
     }
   },
   "mutagen_t3": {
@@ -166,5 +179,27 @@
       "sulfur": 1,
       "obsidian": 1
     }
-  }
+  },
+  "fuse_cartridge": {
+    "inputs": {
+      "solar_quartz": 2,
+      "circuit_board": 1
+    }
+  },
+  "growth_multiplier_fuse": {
+    "inputs": {
+      "fertilizer_t3": 2,
+      "fuse_cartridge": 1,
+      "silk_worm": 2,
+      "quasar_quartz": 1
+    }
+  },
+  "trade_rocket_multiplier_fuse": {
+    "inputs": {
+      "selenium": 2,
+      "fuse_cartridge": 1,
+      "quasar_quartz": 2,
+      "solar_quartz": 1
+    }
+  },
 }

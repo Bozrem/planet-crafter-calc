@@ -29,7 +29,13 @@
   "mutagen_t3": {
     "target_interval_sec": 0
   },
+  "mutagen_t2": {
+    "target_interval_sec": 0
+  },
   "mutagen": {
+    "target_interval_sec": 0
+  },
+  "fertilizer_t3": {
     "target_interval_sec": 0
   },
   "fertilizer_t2": {
@@ -168,6 +174,15 @@
     "target_interval_sec": 0
   },
   "generic_frog_eggs": {
+    "target_interval_sec": 0
+  },
+  "fuse_cartridge": {
+    "target_interval_sec": 0
+  },
+  "growth_multiplier_fuse": {
+    "target_interval_sec": 0
+  },
+  "trade_rocket_multiplier_fuse": {
     "target_interval_sec": 0
   },
 }
