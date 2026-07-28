@@ -14,7 +14,8 @@
       "iridium",
       "super_alloy",
       "zeolite",
-      "obsidian"
+      "obsidian",
+      "selenium"
     ]
   },
   "gas_extractor_t2": {
@@ -62,6 +63,17 @@
     "cycle_time_sec": 270.0,
     "produces": [
       "tree_bark"
+    ]
+  },
+  "harvesting_robot": {
+    "cycle_time_sec": 75.0,
+    "produces": [
+      "common_larva",
+      "uncommon_larva",
+      "rare_larva",
+      "silk_worm",
+      "generic_frog_eggs",
+      "phosphorus"
     ]
   }
 }

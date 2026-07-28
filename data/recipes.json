@@ -43,7 +43,7 @@
   "bacteria_sample": {
     "inputs": {
       "algae": 3,
-      "water_bottle": 1
+      "water_bottle": 3
     }
   },
   "fertilizer": {
@@ -83,10 +83,12 @@
   },
   "circuit_board": {
     "inputs": {
-      "aluminum": 1,
-      "iron": 1,
       "silicon": 1,
-      "nitrogen_cartridge": 1
+      "iron": 1,
+      "aluminum": 1,
+      "nitrogen_cartridge": 1,
+      "bioplastic_nugget": 1,
+      "zeolite": 1
     }
   },
   "pulsar_quartz": {
@@ -101,7 +103,7 @@
   "fusion_energy_cell": {
     "inputs": {
       "pulsar_quartz": 3,
-      "super_alloy_rod": 2,
+      "osmium": 2,
       "obsidian": 1
     }
   },
@@ -112,8 +114,8 @@
   },
   "smart_fabric": {
     "inputs": {
-      "fabric": 1,
-      "bioplastic_nugget": 1
+      "fabric": 2,
+      "circuit_board": 1
     }
   },
   "high_quality_food": {
@@ -141,6 +143,28 @@
     "inputs": {
       "explosive_powder": 2,
       "circuit_board": 1
+    }
+  },
+  "blazar_quartz": {
+    "inputs": {
+      "selenium": 2,
+      "cobalt": 1,
+      "super_alloy": 1
+    }
+  },
+  "quasar_quartz": {
+    "inputs": {
+      "phosphorus": 1,
+      "bioplastic_nugget": 1,
+      "silk": 1,
+      "algae": 3
+    }
+  },
+  "solar_quartz": {
+    "inputs": {
+      "nitrogen_cartridge": 1,
+      "sulfur": 1,
+      "obsidian": 1
     }
   }
 }

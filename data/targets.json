@@ -131,6 +131,12 @@
   "iron": {
     "target_interval_sec": 0
   },
+  "phosphorus": {
+    "target_interval_sec": 0
+  },
+  "selenium": {
+    "target_interval_sec": 0
+  },
   "drone_t1": {
     "target_interval_sec": 0
   },
@@ -138,6 +144,30 @@
     "target_interval_sec": 0
   },
   "explosive": {
+    "target_interval_sec": 0
+  },
+  "blazar_quartz": {
+    "target_interval_sec": 0
+  },
+  "quasar_quartz": {
+    "target_interval_sec": 0
+  },
+  "solar_quartz": {
+    "target_interval_sec": 0
+  },
+  "common_larva": {
+    "target_interval_sec": 0
+  },
+  "uncommon_larva": {
+    "target_interval_sec": 0
+  },
+  "rare_larva": {
+    "target_interval_sec": 0
+  },
+  "silk_worm": {
+    "target_interval_sec": 0
+  },
+  "generic_frog_eggs": {
     "target_interval_sec": 0
   },
 }
